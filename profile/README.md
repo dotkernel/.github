@@ -1,5 +1,3 @@
-# Dotkernel Organisation
-
 ## Documentation
 
 Documentation is available at: https://docs.dotkernel.org
