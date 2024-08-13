@@ -18,7 +18,7 @@ There are a few necessary steps before we can accept a pull request:
 
 * **Open an issue** describing the problem that you are looking to solve in 
 your PR (if one is not already open), and your approach to solving it (no necessary for bug fixes - only feature contributions). URL format: `https://github.com/dotkernel/`**repo**`/issues` -
-* [Fork the repository!](https://help.github.com/articles/fork-a-repo/) Code! Follow the coding standards **PSR-1** and **PSR-2**
+* [Fork the repository!](https://help.github.com/articles/fork-a-repo/) Code! Follow the coding standards **PSR-12**.
 * **Send a pull request** from your fork’s branch to our `master` branch.
 
  > Note: **`repo`** will be replaced with the relevant repository name.
