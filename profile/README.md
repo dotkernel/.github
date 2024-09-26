@@ -8,4 +8,6 @@ Documentation is available at: https://docs.dotkernel.org
 
 - If you need support with the project, read [the support documentation](https://github.com/dotkernel/.github/blob/main/SUPPORT.md).
 - For reporting security issues, please review our [security policy](https://github.com/dotkernel/.github/blob/main/SECURITY.md).
-- If you wish to contribute to the project, read the [contributing guidelines](https://github.com/dotkernel/.github/blob/main/CONTRIBUTING.md) 
+- If you wish to contribute to the project, read the [contributing guidelines](https://github.com/dotkernel/.github/blob/main/CONTRIBUTING.md)
+- Learn about [git attributes](https://github.com/dotkernel/.github/blob/main/GIT_ATTRIBUTES.md)
+
