@@ -41,3 +41,19 @@
     - An x in system y is analogous to a w in system z. However ...
     - Some users prefer w (because z). This can be a good approach, but...
     - An x interacts with a y as follows: ...
+
+## Markdown best practices
+
+- Don't use too many levels of heading: no more than 2-3 levels
+- Use lists: helps readability
+- Make links descriptive: not "click here" or "read more"
+- Link to external resources: use full URL, not relative link
+- Add a table of contents: easier to navigate content
+- Use alt text for images: helps search engines and screen readers
+- Semantic line breaks
+  - A semantic line break MUST occur after a sentence, as punctuated by a period (.), exclamation mark (!), or question mark (?).
+  - A semantic line break SHOULD occur after an independent clause as punctuated by a comma (,), semicolon (;), colon (:), or em dash (—).
+
+### Source for above list
+- [Semantic Line Breaks](https://sembr.org/)
+- [Markdown for Technical Writers](https://israelmitolu.hashnode.dev/markdown-for-technical-writers-tips-tricks-and-best-practices)
