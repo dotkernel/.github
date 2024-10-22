@@ -18,7 +18,4 @@ labels: Enhancement
 
 <!--
 Provide a summary of the feature you would like to see implemented.
-
-Ideally, create an RFC on our forums (https://discourse.laminas.dev/c/contributors)
-to get feedback and flesh out the design, and link to it here.
 -->
