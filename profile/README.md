@@ -1,5 +1,10 @@
 ![](https://github.com/dotkernel/dotkernel.github.io/blob/main/img/dk_logo_2024.svg)
 
+
+## A collection of PSR-7 Middleware applications (skeletons) and libraries.
+ 
+A workhorse built on top of Mezzio microframework using Laminas components, designed for control, scalability & performance.
+
 ## Documentation
 
 Documentation is available at: https://docs.dotkernel.org
