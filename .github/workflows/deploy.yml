@@ -1,0 +1,25 @@
+name: Deploy
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Configure PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Fetch RSS feed
+        run: php ./build/feed_update.php
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Blog posts feed
