@@ -25,7 +25,7 @@ if (isset($blogposts['items']) and is_array($blogposts['items'])) {
     foreach ($blogposts['items'] as $post) {
         $latestBlogposts[] = $post;
 
-        if (count($latestBlogposts) > $maxBlogpostsToRender) {
+        if (count($latestBlogposts) >= $maxBlogpostsToRender) {
             break;
         }
     }
