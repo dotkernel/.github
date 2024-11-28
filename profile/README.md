@@ -12,11 +12,11 @@ Documentation is available at: https://docs.dotkernel.org
 ## Latest blog posts
 
 <!--- blog_start --->
+ - [Content Negotiation in Dotkernel REST API](https://www.dotkernel.com/dotkernel-api/content-negotiation-in-dotkernel-rest-api/)
  - [Static Analysis – Replacing Psalm with PHPStan](https://www.dotkernel.com/php-development/static-analysis-replacing-psalm-with-phpstan/)
  - [Doctrine enum implementation in Dotkernel](https://www.dotkernel.com/dotkernel/doctrine-enum-implementation-in-dotkernel/)
  - [Dotkernel Light: the best choice for your presentation site](https://www.dotkernel.com/dotkernel/dotkernel-light-the-best-choice-for-your-presentation-site/)
  - [Dotkernel Light – Starting with Mezzio microframework and Laminas components](https://www.dotkernel.com/dotkernel/dotkernel-light-starting-with-mezzio-microframework-and-laminas-components/)
- - [Error reporting endpoint in Dotkernel API](https://www.dotkernel.com/dotkernel-api/error-reporting-endpoint-in-dotkernel-api/)
 <!--- blog_end --->
 
 ## Contributing and Support
