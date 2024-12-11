@@ -30,6 +30,12 @@
 - Follow the structure of the product
 - Build on a standard layout
 
+### Standard layout items
+
+- Premise: used as an introduction for the item; presents e.g. the end goal of the page
+- Definition: the discussed item's outline, purpose etc.
+- Process: the mechanism behind the discussed item; can include e.g. code and/or steps to execute, configure, understand the discussed item
+
 ## Explanation
 
 - Not necessarily relevant to the project
