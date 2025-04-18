@@ -12,11 +12,11 @@ Documentation is available at: https://docs.dotkernel.org
 ## Latest blog posts
 
 <!--- blog_start --->
+ - [Naming pattern for PSR-15 handlers in Dotkernel applications](https://www.dotkernel.com/design-pattern/naming-pattern-for-psr-15-handlers-in-dotkernel-applications/)
  - [Replacing controllers with PSR-15 compliant handlers in Dotkernel Light](https://www.dotkernel.com/middleware/replacing-controllers-with-psr-15-compliant-handlers-in-dotkernel-light/)
  - [Handling dynamic routing using FastRoute in Dotkernel](https://www.dotkernel.com/middleware/handling-dynamic-routing-using-fastroute-in-dotkernel/)
  - [Replacing laminas-mail with Symfony mailer in dot-mail](https://www.dotkernel.com/dotkernel/replacing-laminas-mail-with-symfony-mailer-in-dot-mail/)
  - [Content Negotiation in Dotkernel REST API](https://www.dotkernel.com/dotkernel-api/content-negotiation-in-dotkernel-rest-api/)
- - [Static Analysis – Replacing Psalm with PHPStan](https://www.dotkernel.com/php-development/static-analysis-replacing-psalm-with-phpstan/)
 <!--- blog_end --->
 
 ## Contributing and Support
