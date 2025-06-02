@@ -9,6 +9,10 @@ A workhorse built on top of Mezzio microframework using Laminas components, desi
 
 Documentation is available at: https://docs.dotkernel.org
 
+## Discussion
+
+Open discussions are available at: https://github.com/orgs/dotkernel/discussions
+
 ## Latest blog posts
 
 <!--- blog_start --->
