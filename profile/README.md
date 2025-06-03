@@ -3,7 +3,13 @@
 
 ## A collection of PSR-7 and PSR-15 Middleware applications (skeletons) and libraries.
  
-A workhorse built on top of Mezzio microframework using Laminas components, designed for control, scalability & performance.
+- A general-purpose headless API platform built on top of Mezzio microframework using Laminas components
+- Designed for control, scalability & performance
+- Adhering strictly to
+    - [**PSR-3**](https://www.php-fig.org/psr/psr-3/) ([logging](https://github.com/php-fig/log))
+    - [**PSR-7**](https://www.php-fig.org/psr/psr-7/) ([HTTP messages](https://github.com/php-fig/http-message))
+    - [**PSR-11**](https://www.php-fig.org/psr/psr-11/) ([containers](https://github.com/php-fig/container))
+    - [**PSR-15**](https://github.com/php-fig/http-server-handler) ([middleware](https://github.com/php-fig/http-server-handler)). 
 
 ## Documentation
 
