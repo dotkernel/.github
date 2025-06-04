@@ -1,4 +1,4 @@
-![](https://github.com/dotkernel/dotkernel.github.io/blob/main/img/dk_logomark.png) DOTKERNEL
+![](https://github.com/dotkernel/dotkernel.github.io/blob/main/img/dk_logo_2024.svg) 
 
 
 ## A collection of PSR-7 and PSR-15 Middleware applications (skeletons) and libraries.
