@@ -1,7 +1,7 @@
 ![](https://github.com/dotkernel/dotkernel.github.io/blob/main/img/dk_logo_2024.svg) 
 
 
-## A general-purpose headless platform built on top of Mezzio microframework using Laminas components.
+## A general-purpose Headless Platform built on top of Mezzio microframework using Laminas components.
  
 - A collection of PSR-7 and PSR-15 Middleware applications (skeletons) and libraries.
 - Designed for control, scalability & performance
