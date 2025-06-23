@@ -1,7 +1,11 @@
 ![](https://github.com/dotkernel/dotkernel.github.io/blob/main/img/dk_logo_2024.svg) 
 
 
-# A full-fledged Headless Platform built on top of Mezzio microframework using Laminas components, with both backend management and frontend-agnostic capabilities.
+## A full-fledged Headless Platform 
+-  built on top of Mezzio microframework using Laminas components
+-  with both backend management and frontend-agnostic capabilities
+-  built entirely on PSR-15 middleware
+-  follows the middleware pipeline pattern offered by Laminas and the PSR standards
  
 - A collection of PSR-7 and PSR-15 Middleware applications (skeletons) and libraries.
 - Designed for control, scalability & performance
