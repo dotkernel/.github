@@ -19,11 +19,11 @@ Open discussions are available at: https://github.com/orgs/dotkernel/discussions
 ### Latest blog posts
 
 <!--- blog_start --->
+ - [Shared Core Submodule in Dotkernel Headless Platform](https://www.dotkernel.com/headless-platform/shared-core-submodule-in-dotkernel-headless-platform/)
  - [Installing AlmaLinux 10 in WSL2: PHP, MariaDB, Composer, PhpMyadmin](https://www.dotkernel.com/how-to/installing-almalinux-10-in-wsl2-php-mariadb-composer-phpmyadmin/)
  - [Dotkernel Headless Platform – The Whats, Hows and Whys](https://www.dotkernel.com/headless-platform/dotkernel-headless-platform-the-whats-hows-and-whys/)
  - [Understanding Middleware](https://www.dotkernel.com/architecture/understanding-middleware/)
  - [Dotkernel Light improvements: PSR-15 Handlers, Vite, PHPStan](https://www.dotkernel.com/middleware/dotkernel-light-improvements-psr-15-handlers-vite-phpstan/)
- - [Naming pattern for PSR-15 handlers in Dotkernel applications](https://www.dotkernel.com/design-pattern/naming-pattern-for-psr-15-handlers-in-dotkernel-applications/)
 <!--- blog_end --->
 
 ### Contributing and Support
