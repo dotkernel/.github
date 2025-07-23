@@ -19,11 +19,11 @@ Open discussions are available at: https://github.com/orgs/dotkernel/discussions
 ### Latest blog posts
 
 <!--- blog_start --->
+ - [Dotkernel API v6: The root of Dotkernel Headless Platform](https://www.dotkernel.com/headless-platform/dotkernel-api-v6-the-root-of-dotkernel-headless-platform/)
  - [ZF Is Retired. Laminas MVC Is Retiring. Consider It Solved](https://www.dotkernel.com/best-practice/zf-is-retired-laminas-mvc-is-retiring-consider-it-solved/)
  - [Shared Core Submodule in Dotkernel Headless Platform](https://www.dotkernel.com/headless-platform/shared-core-submodule-in-dotkernel-headless-platform/)
  - [Installing AlmaLinux 10 in WSL2: PHP, MariaDB, Composer, PhpMyadmin](https://www.dotkernel.com/how-to/installing-almalinux-10-in-wsl2-php-mariadb-composer-phpmyadmin/)
  - [Dotkernel Headless Platform – The Whats, Hows and Whys](https://www.dotkernel.com/headless-platform/dotkernel-headless-platform-the-whats-hows-and-whys/)
- - [Understanding Middleware](https://www.dotkernel.com/architecture/understanding-middleware/)
 <!--- blog_end --->
 
 ### Contributing and Support
