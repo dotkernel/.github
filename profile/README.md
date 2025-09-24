@@ -6,7 +6,7 @@
 -  with both [backend management](https://github.com/dotkernel/admin) and [frontend-agnostic capabilities](https://github.com/dotkernel/api)
 -  built entirely on PSR-15 middleware
 -  follows the middleware pipeline pattern offered by Laminas and the PSR standards
-- Adhering strictly to [**PSR-3**](https://www.php-fig.org/psr/psr-3/) ([logging](https://github.com/php-fig/log)), [**PSR-7**](https://www.php-fig.org/psr/psr-7/) ([HTTP messages](https://github.com/php-fig/http-message)), [**PSR-11**](https://www.php-fig.org/psr/psr-11/) ([containers](https://github.com/php-fig/container)), [**PSR-15**](https://github.com/php-fig/http-server-handler) ([middleware](https://github.com/php-fig/http-server-handler)). 
+- Adhering strictly to [**PSR-3**](https://www.php-fig.org/psr/psr-3/) ([logging](https://github.com/php-fig/log)), [**PSR-7**](https://www.php-fig.org/psr/psr-7/) ([HTTP messages](https://github.com/php-fig/http-message)), [**PSR-11**](https://www.php-fig.org/psr/psr-11/) ([containers](https://github.com/php-fig/container)), [**PSR-15**](https://www.php-fig.org/psr/psr-15/) ([middleware](https://github.com/php-fig/http-server-handler)). 
 
 ### Documentation
 
