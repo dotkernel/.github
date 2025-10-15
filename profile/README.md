@@ -19,11 +19,11 @@ Open discussions are available at: https://github.com/orgs/dotkernel/discussions
 ### Latest blog posts
 
 <!--- blog_start --->
+ - [Basic Security in Dotkernel Headless Platform](https://www.dotkernel.com/best-practice/basic-security-in-dotkernel-headless-platform/)
  - [DotMaker – Generate common code in Dotkernel](https://www.dotkernel.com/headless-platform/dotmaker-generate-common-code-in-dotkernel/)
  - [Dotkernel Queue – Asynchronous Execution in Dotkernel Headless Platform](https://www.dotkernel.com/headless-platform/dotkernel-queue-asynchronous-execution-in-dotkernel-headless-platform/)
  - [ConfigProvider – Bootstrap Modern PHP Applications](https://www.dotkernel.com/architecture/configprovider-bootstrap-modern-php-applications/)
  - [Complementary Admin in Dotkernel Headless Platform](https://www.dotkernel.com/headless-platform/complementary-admin-in-dotkernel-headless-platform/)
- - [Dotkernel API v6: The root of Dotkernel Headless Platform](https://www.dotkernel.com/headless-platform/dotkernel-api-v6-the-root-of-dotkernel-headless-platform/)
 <!--- blog_end --->
 
 ### Contributing and Support
