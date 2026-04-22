@@ -19,11 +19,11 @@ Open discussions are available at: https://github.com/orgs/dotkernel/discussions
 ### Latest blog posts
 
 <!--- blog_start --->
+ - [Implementing Time-based One-Time Password (TOTP) in Dotkernel](https://www.dotkernel.com/headless-platform/implementing-time-based-one-time-password-totp-in-dotkernel/)
+ - [API Client Migration: From Postman to Bruno](https://www.dotkernel.com/dotkernel-api/api-client-migration-from-postman-to-bruno/)
  - [Version 7 adds PostgreSQL, Native UUID and PHP 8.5](https://www.dotkernel.com/headless-platform/version-7-adds-postgresql-native-uuid-and-php-8-5/)
  - [Evolution Pattern versus API Versioning](https://www.dotkernel.com/headless-platform/evolution-pattern-versus-api-versioning/)
  - [Basic Security in Dotkernel Headless Platform](https://www.dotkernel.com/best-practice/basic-security-in-dotkernel-headless-platform/)
- - [DotMaker – Generate common code in Dotkernel](https://www.dotkernel.com/headless-platform/dotmaker-generate-common-code-in-dotkernel/)
- - [Dotkernel Queue – Asynchronous Execution in Dotkernel Headless Platform](https://www.dotkernel.com/headless-platform/dotkernel-queue-asynchronous-execution-in-dotkernel-headless-platform/)
 <!--- blog_end --->
 
 ### Contributing and Support
