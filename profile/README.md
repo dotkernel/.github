@@ -1,7 +1,10 @@
 ![](https://github.com/dotkernel/dotkernel.github.io/blob/main/img/dk_logo_2024.svg) 
 
 
-## A full-fledged Headless Platform 
+## A headless platform for building modern web applications
+
+Dotkernel is a set of open-source PHP applications - REST API, admin, and queue - that ship assembled on Mezzio and Laminas, over one shared Doctrine domain layer called Core. OAuth2, RBAC, HAL, and a generated OpenAPI spec are wired together on install, not left for you to choose.
+
 -  built on top of Mezzio microframework using Laminas components
 -  with both [backend management](https://github.com/dotkernel/admin) and [frontend-agnostic capabilities](https://github.com/dotkernel/api)
 -  built entirely on PSR-15 middleware
