@@ -41,11 +41,11 @@ Open discussions are available at: https://github.com/orgs/dotkernel/discussions
 ### Latest blog posts
 
 <!--- blog_start --->
+ - [How to Use Twig Markdown to Generate HTML Pages at Runtime](https://www.dotkernel.com/how-to/how-to-use-twig-markdown-to-generate-html-pages-at-runtime/)
+ - [What "Production Ready" Means for Dotkernel API](https://www.dotkernel.com/dotkernel-api/what-production-ready-means-for-dotkernel-api/)
  - [How to build this website starting from Dotkernel Light](https://www.dotkernel.com/dotkernel/how-to-build-this-website-starting-from-dotkernel-light/)
  - [Request Lifecycle for a Mezzio-Based Application](https://www.dotkernel.com/architecture/request-lifecycle-for-a-mezzio-based-application/)
  - [Implementing Time-based One-Time Password (TOTP) in Dotkernel](https://www.dotkernel.com/headless-platform/implementing-time-based-one-time-password-totp-in-dotkernel/)
- - [API Client Migration: From Postman to Bruno](https://www.dotkernel.com/dotkernel-api/api-client-migration-from-postman-to-bruno/)
- - [Version 7 adds PostgreSQL, Native UUID and PHP 8.5](https://www.dotkernel.com/headless-platform/version-7-adds-postgresql-native-uuid-and-php-8-5/)
 <!--- blog_end --->
 
 ### Contributing and Support
