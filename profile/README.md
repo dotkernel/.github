@@ -41,11 +41,11 @@ Open discussions are available at: https://github.com/orgs/dotkernel/discussions
 ### Latest blog posts
 
 <!--- blog_start --->
+ - [AI-Native Coding Pods: The Promise, Risks, and How to Make Them Work](https://www.dotkernel.com/headless-platform/ai-native-coding-pods-the-promise-risks-and-how-to-make-them-work/)
  - [How to Use Twig Markdown to Generate HTML Pages at Runtime](https://www.dotkernel.com/how-to/how-to-use-twig-markdown-to-generate-html-pages-at-runtime/)
  - [What "Production Ready" Means for Dotkernel API](https://www.dotkernel.com/dotkernel-api/what-production-ready-means-for-dotkernel-api/)
  - [How to build this website starting from Dotkernel Light](https://www.dotkernel.com/dotkernel/how-to-build-this-website-starting-from-dotkernel-light/)
  - [Request Lifecycle for a Mezzio-Based Application](https://www.dotkernel.com/architecture/request-lifecycle-for-a-mezzio-based-application/)
- - [Implementing Time-based One-Time Password (TOTP) in Dotkernel](https://www.dotkernel.com/headless-platform/implementing-time-based-one-time-password-totp-in-dotkernel/)
 <!--- blog_end --->
 
 ### Contributing and Support
